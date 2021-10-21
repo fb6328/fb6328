@@ -1,7 +1,7 @@
 - 👋 Hi, I’m @fb6328
-- 👀 I’m interested in ...
-- 🌱 I’m currently learning ...
-- 💞️ I’m looking to collaborate on ...
+- 👀 I’m interested in C#, C++, Java, Python, PHP, JavaScript and Android.
+- 🌱 I’m currently learning C++ and Python
+- 💞️ I’m looking to collaborate on any good software project that can help become a coding guru.
 - 📫 How to reach me fb6328@gmail.com
 
 <!---
